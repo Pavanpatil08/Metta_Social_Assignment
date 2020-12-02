@@ -33,20 +33,12 @@
   "directories": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pradeep1991singh/flight-search-engine.git"
-  },
+ 
   "keywords": [
     "flight",
     "search",
     "engine",
     "reactjs"
   ],
-  "author": "pradeep singh",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pradeep1991singh/flight-search-engine/issues"
-  },
-  "homepage": "https://github.com/pradeep1991singh/flight-search-engine#readme"
+ 
 }
